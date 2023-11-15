@@ -1,0 +1,1 @@
+cov_vectors = function(amount_of_vecs, observations, )
